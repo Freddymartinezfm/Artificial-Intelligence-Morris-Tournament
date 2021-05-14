@@ -1,0 +1,44 @@
+examples
+
+
+MiniMaxGame:
+
+Input Position: WxWxWxBWBWBWBWBWBWBxBxB 
+
+Output Position: xxWWWxBWBWBWBWBWBWBxBxx 
+
+Position evaluated by static estimation: 873328 
+
+MINIMAX estimate: 1994 
+
+ 
+
+ABGame: 
+
+Input Position: WxWxWxBWBWBWBWBWBWBxBxB 
+
+Output Position: xxWWWxBWBWBWBWBWBWBxBxx 
+
+Positions evaluated by static estimation: 15077 
+
+AB estimate: 1994 
+
+ABGame:
+
+Input Position: xxxxxxxxxxWWxWWxBBBxxxx 
+
+Output Position: xxxxxxWxxxxWxWWxBBBxxxx 
+
+Positions evaluated by static estimation: 11924 
+
+AB estimate: -55 
+
+MiniMaxGame:
+
+Input Position: xxxxxxxxxxWWxWWxBBBxxxx 
+
+Output Position: xxxxxxWxxxxWxWWxBBBxxxx 
+
+Position evaluated by static estimation: 244420 
+
+MINIMAX estimate: -55
